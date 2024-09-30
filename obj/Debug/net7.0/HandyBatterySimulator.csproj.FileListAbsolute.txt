@@ -1,0 +1,15 @@
+C:\SoE_Projects\GIT\Visual_Studio\HandyBatterySimulator\bin\Debug\net7.0\HandyBatterySimulator.exe
+C:\SoE_Projects\GIT\Visual_Studio\HandyBatterySimulator\bin\Debug\net7.0\HandyBatterySimulator.deps.json
+C:\SoE_Projects\GIT\Visual_Studio\HandyBatterySimulator\bin\Debug\net7.0\HandyBatterySimulator.runtimeconfig.json
+C:\SoE_Projects\GIT\Visual_Studio\HandyBatterySimulator\bin\Debug\net7.0\HandyBatterySimulator.dll
+C:\SoE_Projects\GIT\Visual_Studio\HandyBatterySimulator\bin\Debug\net7.0\HandyBatterySimulator.pdb
+C:\SoE_Projects\GIT\Visual_Studio\HandyBatterySimulator\obj\Debug\net7.0\HandyBatterySimulator.csproj.AssemblyReference.cache
+C:\SoE_Projects\GIT\Visual_Studio\HandyBatterySimulator\obj\Debug\net7.0\HandyBatterySimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoE_Projects\GIT\Visual_Studio\HandyBatterySimulator\obj\Debug\net7.0\HandyBatterySimulator.AssemblyInfoInputs.cache
+C:\SoE_Projects\GIT\Visual_Studio\HandyBatterySimulator\obj\Debug\net7.0\HandyBatterySimulator.AssemblyInfo.cs
+C:\SoE_Projects\GIT\Visual_Studio\HandyBatterySimulator\obj\Debug\net7.0\HandyBatterySimulator.csproj.CoreCompileInputs.cache
+C:\SoE_Projects\GIT\Visual_Studio\HandyBatterySimulator\obj\Debug\net7.0\HandyBatterySimulator.dll
+C:\SoE_Projects\GIT\Visual_Studio\HandyBatterySimulator\obj\Debug\net7.0\refint\HandyBatterySimulator.dll
+C:\SoE_Projects\GIT\Visual_Studio\HandyBatterySimulator\obj\Debug\net7.0\HandyBatterySimulator.pdb
+C:\SoE_Projects\GIT\Visual_Studio\HandyBatterySimulator\obj\Debug\net7.0\HandyBatterySimulator.genruntimeconfig.cache
+C:\SoE_Projects\GIT\Visual_Studio\HandyBatterySimulator\obj\Debug\net7.0\ref\HandyBatterySimulator.dll
